@@ -1,0 +1,4 @@
+
+f=  open ("sample.txt", "a")
+f.write("\n more content here!")
+f.close()
